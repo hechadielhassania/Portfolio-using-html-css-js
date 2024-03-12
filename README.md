@@ -36,9 +36,9 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
-git clone[ https://github.com/hechadielhassania/Portfolio-using-html-css-js.git].
+<!-- ```bash -->
+# git clone[ https://github.com/hechadielhassania/Portfolio-using-html-css-js.git].
 
-----
+
 
 ![website screenshot](/web-img.png)
