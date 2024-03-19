@@ -208,12 +208,12 @@ nav .nav-bar .logo a {
     position: relative;
     font-size: 17px;
     font-weight: 400;
-    color: var(--text-color);
+    color: var(--text-color) !important;
     text-decoration: none;
     padding: 10px;
 }
 
-.nav-links li a::before {
+/*.nav-links li a::before {
     content: '';
     position: absolute;
     left: 50%;
@@ -225,7 +225,7 @@ nav .nav-bar .logo a {
     background-color: var(--text-color);
     opacity: 0;
     transition: all 0.3s ease;
-}
+}*/
 
 .nav-links li:hover a::before {
     opacity: 1;
